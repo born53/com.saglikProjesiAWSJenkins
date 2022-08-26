@@ -1,1 +1,1 @@
-# com.saglikProjesiAWSJewkins
+# com.saglikProjesiAWSJenkins
